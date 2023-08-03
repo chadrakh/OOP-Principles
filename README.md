@@ -3,7 +3,7 @@ There are four major principles that underpin object-oriented programming; these
 
 
 ### Abstraction
-...
+Hiding complexity, such as the internal state and functionality of an object, by implementing public methods to limit direct access.
 
 ### Encapsulation
 ...
